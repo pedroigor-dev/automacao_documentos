@@ -1,4 +1,4 @@
-# Automacaopt1
+# Automação de Documentos
 
 Este projeto é uma aplicação backend desenvolvida em Java utilizando o framework Spring Boot, com foco em automação de processamento e classificação de documentos enviados pelo usuário. O projeto foi criado para facilitar o recebimento, extração de texto, classificação automática e armazenamento organizado de diversos tipos de documentos.
 
